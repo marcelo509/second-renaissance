@@ -7,15 +7,17 @@ logo: /assets/reimagined-futures-logo.webp
 image: /assets/reimagined-futures-homepage.png
 locations:
   - Sofia, Bulgaria
-  - " London, UK"
   - " Barcelona, Spain"
-  - " Nicosia, Cyprus"
-  - " Prague, Czech Republic"
 start: "2020"
 end: present
 sectors:
   - Economics & Business
   - Infrastructure & Resources
+  - Environment, Food & Water
+  - Governance & Community
+  - Science & Technology
+  - Education & Learning
+  - Health & Wellbeing
 activities:
   - Consulting & Advisory
   - Design, Development & Innovation
@@ -36,4 +38,4 @@ https://www.reimaginedfutures.org/
 
 ## Keywords
 
-complexity; systems change; regenerative
+complexity; systems thinking; systems change; regenerative
